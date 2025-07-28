@@ -93,26 +93,13 @@ Execute all requests in sequence
 View dynamic console logs, passed/failed tests, and response data
 
 ## 🤝 Credits
-This repository is part of my internship as an SQL Developer at Young Developers, where I had the opportunity to work on real-world database scenarios. I’m grateful to the program mentors for their guidance and support throughout this learning journey.
- 
-Check out their repository for more details about the program:  
-🔗 [Young-Dev-Interns GitHub Repository](https://github.com/Young-Dev-Interns)
-
-## 📬 Contact
-Feel free to reach out to me for any queries, feedback, or suggestions. Let’s connect and collaborate!
-
-🌐 LinkedIn: [Laiba Khan](https://www.linkedin.com/in/laiba-khan-955691264/) 
-Thank you for visiting my repository! I hope you find the content helpful in your own SQL learning journey. 😊
-
-Happy coding! ✨
-
-## 🤝 Credits
 
 This repository is created as part of my internship program focusing on practical API Testing with Postman. I thank my mentors for guiding me through advanced features like scripting, chaining, and dynamic variable management.
 
 ## 📬 Contact
 Feel free to reach out to me for any queries, feedback, or suggestions. Let’s connect and collaborate!
 
-🌐 LinkedIn: [Laiba Khan](https://www.linkedin.com/in/laiba-khan-955691264/) Thanks for visiting my API testing project! I hope it serves as a helpful reference for Postman learners and API testers alike. 💡😊
+🌐 LinkedIn: [Laiba Khan](https://www.linkedin.com/in/laiba-khan-955691264/)
+ Thanks for visiting my API testing project! I hope it serves as a helpful reference for Postman learners and API testers alike. 💡😊
 
 Happy Testing! 🧪✨
