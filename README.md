@@ -63,9 +63,7 @@ This repository showcases my ability to:
 ┣ 📄 API_Environment_Setup.json → Postman Environment File (with variables)
 ┗ 📄 README.md → Documentation (this file)
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -107,16 +105,3 @@ Have feedback or collaboration ideas? Reach out to me!
 Thanks for visiting my API testing project! I hope it serves as a helpful reference for Postman learners and API testers alike. 💡
 
 Happy Testing! 🧪✨
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to:
-- Format and export this into a `.md` file for upload?
-- Suggest folder naming for future tasks?
-- Add badges or visuals to enhance your README?
-
-Let me know and I’ll assist right away!
