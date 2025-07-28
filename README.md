@@ -92,10 +92,16 @@ Execute all requests in sequence
 
 View dynamic console logs, passed/failed tests, and response data
 
+---
+
 ## 🤝 Credits
 This repository is created as part of my internship program focusing on practical API Testing with Postman. I thank my mentors for guiding me through advanced features like scripting, chaining, and dynamic variable management.
 
+---
+
 ## 🌐 LinkedIn: www.linkedin.com/in/laiba-khan-955691264
+
+---
 
 ## 📧 Email: klaiba412@gmail.com
 
