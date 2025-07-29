@@ -103,16 +103,4 @@ Feel free to reach out to me for any queries, feedback, or suggestions. Let’s 
  Thanks for visiting my API testing project! I hope it serves as a helpful reference for Postman learners and API testers alike. 💡😊
 
 Happy Testing! 🧪✨
-
-## 🤝 Credits
-This repository is created as part of my internship program focusing on practical API Testing with Postman. I thank my mentors for guiding me through advanced features like scripting, chaining, and dynamic variable management.
-
-## 📬 Contact
-Feel free to reach out to me for any queries, feedback, or suggestions. Let’s connect and collaborate!
-
-## 🌐 LinkedIn
-Laiba Khan
-
-Thanks for visiting my API testing project! I hope it serves as a helpful reference for Postman learners and API testers alike. 💡😊
-
-Happy Testing! 🧪✨
+## ⚙️ How to Use
