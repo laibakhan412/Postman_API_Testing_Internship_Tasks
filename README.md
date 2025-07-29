@@ -99,6 +99,8 @@ This repository is created as part of my internship program focusing on practica
 ## 📬 Contact
 Feel free to reach out to me for any queries, feedback, or suggestions. Let’s connect and collaborate!
 
+## 📧 Email: klaiba412@gmail.com 
+
 ## 🌐 LinkedIn: [Laiba Khan](https://www.linkedin.com/in/laiba-khan-955691264/)
  Thanks for visiting my API testing project! I hope it serves as a helpful reference for Postman learners and API testers alike. 💡😊
 
