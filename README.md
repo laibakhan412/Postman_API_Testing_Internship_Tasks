@@ -69,28 +69,28 @@ This repository showcases my ability to:
 
 ## ⚙️ How to Use
 
-1. **Clone this Repository**
-```bash
-git clone https://github.com/laibakhan412/Postman_API_Internship_Tasks
-Open Postman → Import
+    1. **Clone this Repository**
+        ```bash
+        git clone https://github.com/laibakhan412/Postman_API_Internship_Tasks
+    2. Open Postman → Import
 
-Import both files:
+       Import both files:
+       
+       API_Test_Collection.json
+       
+       API_Environment_Setup.json
+       
+     3. Select Environment
 
-API_Test_Collection.json
+        Choose the environment from the top-right dropdown in Postman
 
-API_Environment_Setup.json
+     4. Run the Collection
 
-Select Environment
-
-Choose the environment from the top-right dropdown in Postman
-
-Run the Collection
-
-Open the Collection Runner
-
-Execute all requests in sequence
-
-View dynamic console logs, passed/failed tests, and response data
+        Open the Collection Runner
+        
+        Execute all requests in sequence
+        
+        View dynamic console logs, passed/failed tests, and response data
 
 ## 🤝 Credits
 
@@ -99,8 +99,11 @@ This repository is created as part of my internship program focusing on practica
 ## 📬 Contact
 Feel free to reach out to me for any queries, feedback, or suggestions. Let’s connect and collaborate!
 
-🌐 LinkedIn: [Laiba Khan](https://www.linkedin.com/in/laiba-khan-955691264/)
+## 🌐 LinkedIn: [Laiba Khan](https://www.linkedin.com/in/laiba-khan-955691264/)
  Thanks for visiting my API testing project! I hope it serves as a helpful reference for Postman learners and API testers alike. 💡😊
 
 Happy Testing! 🧪✨
-## ⚙️ How to Use
+
+
+
+
